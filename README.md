@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etwert&label=Profile%20views&color=f3db3f&style=flat" alt="etwert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etwert" alt="etwert" /></a> </p>
+<h3 align="left">Connect with me:</h3>
 
 - 👨‍💻 All of my projects are available at [https://github/etWert](https://github/etWert)
 
@@ -11,7 +12,6 @@
 
 - 📄 My resume can be viewed at [https://tinyurl.com/resume-Iti-Donat](https://tinyurl.com/resume-Iti-Donat)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

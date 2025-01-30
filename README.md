@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iti Donat</h1>
 <h3 align="center">Fullstack Developer</h3>
+<img src="https://trackmyvisitors.onrender.com/tracking-pixel" alt="Tracking Pixel" style="display:none;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etwert&label=Profile%20views&color=f3db3f&style=flat" alt="etwert" /> </p>
 

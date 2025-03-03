@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etwert" alt="etwert" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 
-- 👨‍💻 All of my projects are available at [https://github/etWert](https://github/etWert)
+- 👨‍💻 All of my projects are available at [https://github.com/etWert](https://github.com/etWert)
 
 - 📫 How to reach me **etdonat@gmail.com**
 

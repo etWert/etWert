@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Iti Donat</h1>
 <!-- <h3 align="center">Fullstack Developer</h3> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Fullstack+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" />
 </p>
 
 <h1 align="center">About Me</h1>

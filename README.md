@@ -12,7 +12,7 @@ I am a software developer who is passionate about problem-solving and creating e
 ## Contact Information
 - **Phone:** 053-419-0375
 - **Email:** etdonat@gmail.com
-- **Resume:** [https://tinyurl.com/resume-Iti-Donat](https://tinyurl.com/resume-Iti-Donat)
+- **Resume:** [Resume Iti Donat](https://drive.google.com/drive/u/0/folders/16uzQvUzY5iKi0vhH2lRMDppm5Rscp_Vi)
 
 ## Technologies I Work With
 
